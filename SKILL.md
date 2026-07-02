@@ -55,4 +55,4 @@ Treat failure and emptiness as moments for direction, not mood. Explain what wen
 Keep the register conversational and tuned: plain verbs, sentence case, no filler, with tone matched to the brand and the audience. Let each element do exactly one job. A label labels, an example demonstrates, and nothing quietly does double duty.
 
 
-Prefer specificity over cleverness: a precise label always beats a witty one.
+Prefer specificity over cleverness: a precise label always beats a witty one
